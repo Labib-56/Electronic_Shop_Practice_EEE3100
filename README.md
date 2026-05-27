@@ -2,9 +2,9 @@
 
 ## About the Course
 
-**EEE 3100 — Electronics Shop Practice**
-**Department of Electrical & Electronic Engineering**
-**Rajshahi University of Engineering & Technology (RUET)**
+**EEE 3100 — Electronics Shop Practice**  
+**Department of Electrical & Electronic Engineering**  
+**Rajshahi University of Engineering & Technology (RUET)**  
 **Bangladesh**
 
 Electronics Shop Practice is a hands-on laboratory course in the undergraduate EEE curriculum at RUET. It bridges the gap between theoretical knowledge and real-world engineering by having students work directly with electronic components, tools, and embedded systems. The course spans three broad areas:
@@ -24,7 +24,7 @@ The course culminates in a group or individual engineering project that involves
 This repository contains all project reports and documentation completed throughout the course, divided into two parts:
 
 - **Part I — Course Projects (01–10):** Ten structured lab/mini-projects covering progressively advanced topics in electronics, microcontrollers, robotics, and sensors.
-- **Part II — Final Project:** A capstone-style project that integrates the skills developed throughout the course.
+- **Part II — Final Project:** A final project that integrates the skills developed throughout the course.
 
 ---
 
@@ -79,11 +79,11 @@ A fully autonomous smart robot that navigates its environment and performs real-
 
 | Component | Detail |
 |---|---|
-| Platform | Arduino / Raspberry Pi (embedded) |
+| Platform | Raspberry Pi Zero 2W |
 | Framework | TensorFlow Lite |
 | Model | MobileNet SSD (pre-trained, quantized) |
 | Motor Driver | L298N / L293D H-bridge |
-| Sensor | USB / Pi Camera |
+| Sensor | Pi Camera |
 | Communication | Wi-Fi / Bluetooth |
 
 ---
